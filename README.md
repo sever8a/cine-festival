@@ -4,10 +4,16 @@ Aplicación en Java para gestionar los eventos de un festival de cine. Considera
 
 Los datos utilizados son ejemplos.
 
-## Promp para crear la estructura
+## Prompt para crear la estructura
 
 quiero crear un proyecto java para construir una aplicación para gestionar un festival de cine, de manera que se puedan importar los datos de las proyecciones (con todos los datos de horario y lugar de proyección). El festival se desarrolla en varias salas de diferentes localidades, estableciendo horarios para la proyección de las películas seleccionadas en el festival.
 
 
-!!! info "IA utilizada"
+!!!info "IA utilizada"
     Se ha utilizado para la primera propuesta Copilot.
+
+
+En una segunda interacción, he solicitado datos de ejemplo para el fichero .csv
+
+
+El siguiente paso podría ser generar parte del código, concretando mejor las funcionalidades del proyecto.
